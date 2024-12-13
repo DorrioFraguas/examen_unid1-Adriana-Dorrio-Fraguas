@@ -1639,6 +1639,8 @@ public start void main (String{args){
 
 
 
+
+
              public class TablaBidimensional {
              public static void main(String[] args) {
              // Declaramos 't' como una tabla bidimensional
