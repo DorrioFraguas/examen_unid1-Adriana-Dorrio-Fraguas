@@ -220,7 +220,6 @@ public class Main {
 
 
 
-
 Static void numeroscomprendidos(int num1, int num2){
         if (num1>num2)}
             int aux=num1;
