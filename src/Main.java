@@ -731,6 +731,8 @@ public start void main (String{args){
 
 
 
+
+
              public static int encontrarMaximo(int[] array) {
              // Verifica que el array tenga exactamente 5 elementos
              if (array.length != 5) {
