@@ -2164,6 +2164,8 @@ public start void main (String{args){
 
 
 
+
+
         public static void mostrarsocios (string[]) {
        for (string socios){
        if (socios = null) sYstenn.out.print (socios);
