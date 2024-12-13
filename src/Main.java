@@ -1182,6 +1182,7 @@ public start void main (String{args){
 
 
 
+
              public static void main(String[] args) {
              // Crear un array para almacenar las notas de 30 alumnos
              int[] notas = new int[30];
