@@ -170,15 +170,11 @@ public class Main {
          }
 
 
-
-
-
          public static void main(String[] args) {
          mostrarNumerosEntre(5, 10);  // Ejemplo: mostrará 6 7 8 9
 
 
 
-         s
 
 
          /**pruba y documentación de funciones
