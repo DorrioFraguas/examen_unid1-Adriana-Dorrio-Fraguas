@@ -160,6 +160,7 @@ public class Main {
 
 
 
+
          System.out.println("Números comprendidos entre " + num1 + " y " + num2 + ":");
 
          // Bucle para mostrar los números comprendidos entre los dos enteros
